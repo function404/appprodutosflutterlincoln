@@ -36,13 +36,17 @@ Aplicativo de cadastro e listagem de produtos desenvolvido como Atividade Práti
 ## 🚀 Como Executar
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/function404/app-produtos-flutter-lincoln.git](https://github.com/function404/app-produtos-flutter-lincoln.git)
+git clone git@github.com:function404/appprodutosflutterlincoln.git
 ```
-2. Acesse o diretório do projeto e atualize os pacotes:
+2. **Entre na pasta do projeto:**
+```bash
+cd appprodutosflutterlincoln
+```
+3. Acesse o diretório do projeto e atualize os pacotes:
 ```bash
 flutter pub get
 ```
-3. Execute no seu emulador ou dispositivo físico:
+4. Execute no seu emulador ou dispositivo físico:
 ```bash
 flutter run
 ```
